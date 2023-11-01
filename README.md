@@ -50,7 +50,7 @@ Texans | Nov 5, 2023 | vs | Tampa Bay | 1:00 pm
 ## What do I need to change to make it work for the team I want?
 * Modify the wanted script's `url` value to use the team schedule from CBS sports. Use the default Texans one as an example.
 * (OPTIONAL) Modify the date range for how many games you want. Default is 7 days but this can be changed to your desire.
-* Depending on the script, you may need to also modify `url2` to be the team page instead of the schedule. Use TGexans page as an example.
+* Depending on the script, you may need to also modify `url2` to be the team page instead of the schedule. Use Texans page as an example.
 * Modify the `Texans` text near the end of the script, to the name of the team you are looking for. This is just text that will show in the message, and is hard set here.
 * At the end of the script, modify the ntfy server, and topic to whatever you are using. Replace `ntfy.mydomain.com/mytopic` to whatever you will be using.
 
